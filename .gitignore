@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+bower_components
+.history
+
+# compiled output
+/dist
+/.tmp
+/node_modules
+
+# System Files
+.DS_Store
+Thumbs.db
